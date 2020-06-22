@@ -1,0 +1,8 @@
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.deps.json
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.json
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.dev.json
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.genruntimeconfig.cache

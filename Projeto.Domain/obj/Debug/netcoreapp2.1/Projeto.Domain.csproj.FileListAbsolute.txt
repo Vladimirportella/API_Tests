@@ -1,0 +1,9 @@
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Domain\bin\Debug\netcoreapp2.1\Projeto.Domain.deps.json
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Domain\bin\Debug\netcoreapp2.1\Projeto.Domain.dll
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Domain\bin\Debug\netcoreapp2.1\Projeto.Domain.pdb
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.csprojAssemblyReference.cache
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.AssemblyInfo.cs
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.dll
+C:\Users\windows\Desktop\002\Coti\TesteAula41\Projeto.Domain\obj\Debug\netcoreapp2.1\Projeto.Domain.pdb
